@@ -1,0 +1,14 @@
+.imageContainer {
+  margin-left:36%;
+  display: inline-block;
+  position: relative;
+  text-align: center;
+  color: rgb(64, 11, 124);
+}
+
+.text-block {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
